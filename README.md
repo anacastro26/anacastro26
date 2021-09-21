@@ -2,7 +2,6 @@
 📝 Estagiando na empresa Brasil Sistemas <br>
 📚 Análise e Desenvolvimento de Sistemas 2/5 <br>
 🏡 Sinop/MT <br>
-📆 17 years <br>
 
 <a href="https://github.com/anacastro26">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacastro26&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
