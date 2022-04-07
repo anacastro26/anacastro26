@@ -1,5 +1,5 @@
 ### Olá! Sou a Ana Paula Aderção de Castro 👋
-📝 Estagiando na empresa Brasil Sistemas <br>
+📝 Estagiando na empresa Ruralhub <br>
 📚 Análise e Desenvolvimento de Sistemas 2/5 <br>
 🏡 Sinop/MT <br>
 
