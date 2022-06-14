@@ -1,6 +1,7 @@
 ### Olá! Sou a Ana Paula Aderção de Castro 👋
-📝 Estagiando na empresa Ruralhub <br>
 📚 Análise e Desenvolvimento de Sistemas 3/5 <br>
+📝 Estagiando como Desenvolvedora na Ruralhub <br>
+📆 18 aninhos <br>
 🏡 Sinop/MT <br>
 
 <a href="https://github.com/anacastro26">
