@@ -1,6 +1,5 @@
 ### Olá! Sou a Ana Paula Aderção de Castro 👋
-📚 Análise e Desenvolvimento de Sistemas 3/5 <br>
-📝 Estagiando como Desenvolvedora na Ruralhub <br>
+📚 Análise e Desenvolvimento de Sistemas 4/5 <br>
 📆 18 aninhos <br>
 🏡 Sinop/MT <br>
 
